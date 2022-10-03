@@ -9,9 +9,9 @@
 
  
 
-<h4> You can make folders of programming languages and also you can contribute in the repo's below.</h4>
+<h4> You can make folders of programming languages and also you can contribute in the repo's below with Special Algorithms of Competitive programming.</h4>
 
-<h4> Feel free to contribute to this repo by creating and editing little programs in any programming language and make different folders for the code you want to contribute. </h4>
+<h4> Feel free to contribute to this repo by creating and editing Algorithms in any programming language and make different folders for the code you want to contribute. </h4>
 
 
 
@@ -23,7 +23,7 @@
 
 ### Rules
 
-* Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+
 * Respect people.
 * Be friendly, helpful, and patient.
 * You can contribute in any way.
